@@ -11,4 +11,4 @@ file_path = "annual-enterprise-survey-2021-financial-year-provisional-csv.csv"
 
 data = load_data(file_path)
 
-print(print_head(data, 5))
+print(print_head(data, 10))
